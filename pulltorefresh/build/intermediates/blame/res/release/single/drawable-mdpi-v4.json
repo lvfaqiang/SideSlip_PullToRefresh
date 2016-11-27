@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\src\\main\\res\\drawable-mdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\src\\main\\res\\drawable-mdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\src\\main\\res\\drawable-mdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\src\\main\\res\\drawable-mdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\src\\main\\res\\drawable-mdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\src\\main\\res\\drawable-mdpi\\default_ptr_flip.png"
+    }
+]

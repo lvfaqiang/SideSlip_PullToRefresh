@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\layout\\yanzhenjie_item_default.xml",
+        "source": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\src\\main\\res\\layout\\yanzhenjie_item_default.xml"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\layout\\yanzhenjie_item_default.xml",
+        "source": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\src\\main\\res\\layout\\yanzhenjie_item_default.xml"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    }
+]

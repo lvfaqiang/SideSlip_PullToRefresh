@@ -1,0 +1,202 @@
+[
+    {
+        "outputFile": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endColumn": 72,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endColumn": 76,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 76,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 60,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 60,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 66,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 66,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 64,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "F:\\AsWorkspace\\SideSlip_PullToRefresh\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 64,
+                        "endOffset": 179
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endColumn": 72,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endColumn": 76,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 76,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 60,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 60,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 66,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 66,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 64,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "F:\\AsWorkspace\\Sliding_PullToRefresh\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 64,
+                        "endOffset": 179
+                    }
+                }
+            }
+        ]
+    }
+]
