@@ -9,6 +9,8 @@ import com.lfq.test.R;
 
 public class MainActivity extends FragmentActivity implements View.OnClickListener {
 
+    public static final int SLEEP_TIME = 1000;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

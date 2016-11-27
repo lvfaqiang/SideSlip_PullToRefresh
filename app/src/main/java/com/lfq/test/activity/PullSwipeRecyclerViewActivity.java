@@ -60,7 +60,7 @@ public class PullSwipeRecyclerViewActivity extends FragmentActivity {
                     @Override
                     public void run() {
                         try {
-                            Thread.sleep(3000);
+                            Thread.sleep(MainActivity.SLEEP_TIME);
                             runOnUiThread(new Runnable() {
                                 @Override
                                 public void run() {
@@ -85,7 +85,7 @@ public class PullSwipeRecyclerViewActivity extends FragmentActivity {
                     @Override
                     public void run() {
                         try {
-                            Thread.sleep(3000);
+                            Thread.sleep(MainActivity.SLEEP_TIME);
                             runOnUiThread(new Runnable() {
                                 @Override
                                 public void run() {

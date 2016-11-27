@@ -45,7 +45,7 @@ public class PullRecyclerViewActivity extends FragmentActivity {
         recyclerView = pull_recyclerView.getRefreshableView();
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
-        pull_recyclerView.setMode(PullToRefreshBase.Mode.PULL_FROM_END);
+        pull_recyclerView.setMode(PullToRefreshBase.Mode.BOTH);
         pull_recyclerView.setOnRefreshListener(new PullToRefreshBase.OnRefreshListener2<RecyclerView>() {
             @Override
             public void onPullDownToRefresh(PullToRefreshBase<RecyclerView> refreshView) {
@@ -54,7 +54,7 @@ public class PullRecyclerViewActivity extends FragmentActivity {
                     @Override
                     public void run() {
                         try {
-                            Thread.sleep(3000);
+                            Thread.sleep(MainActivity.SLEEP_TIME);
                             runOnUiThread(new Runnable() {
                                 @Override
                                 public void run() {
@@ -80,7 +80,7 @@ public class PullRecyclerViewActivity extends FragmentActivity {
                     @Override
                     public void run() {
                         try {
-                            Thread.sleep(3000);
+                            Thread.sleep(MainActivity.SLEEP_TIME);
                             runOnUiThread(new Runnable() {
                                 @Override
                                 public void run() {
