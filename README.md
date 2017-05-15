@@ -6,6 +6,10 @@ blog : [Android RecyclerView 的刷新加载，及侧滑菜单](http://blog.csdn
 #效果图：
 
 ![image](http://img.blog.csdn.net/20161127232241473)
+ 
+
+
+添加依赖：compile 'com.lvfaqiang:pulltorefresh:1.0.1' 
 
 ####刷新加载模式： BOTH 下来刷新和上拉加载  ， PULL_FROM_END 上拉加载 ， PULL_FROM_START 下拉刷新 ，DISABLED ，禁止刷新和加载
 
