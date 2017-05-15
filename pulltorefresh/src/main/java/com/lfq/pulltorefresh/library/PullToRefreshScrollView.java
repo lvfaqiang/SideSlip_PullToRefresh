@@ -48,11 +48,11 @@ public class PullToRefreshScrollView extends PullToRefreshBase<ScrollView> {
 
     @Override
     protected ScrollView createRefreshableView(Context context, AttributeSet attrs) {
-        ScrollView scrollView;
+        CusScrollView scrollView;
         if (VERSION.SDK_INT >= VERSION_CODES.GINGERBREAD) {
             scrollView = new InternalScrollViewSDK9(context, attrs);
         } else {
-            scrollView = new ScrollView(context, attrs);
+            scrollView = new CusScrollView(context, attrs);
         }
 
         scrollView.setId(R.id.scrollview);
@@ -74,20 +74,15 @@ public class PullToRefreshScrollView extends PullToRefreshBase<ScrollView> {
     }
 
     public interface ScrollViewListener {
-        void onScrollChanged(InternalScrollViewSDK9 scrollView, int x, int y, int oldx, int oldy);
+        void onScrollChanged(CusScrollView scrollView, int x, int y, int oldx, int oldy);
     }
     @TargetApi(9)
-    public final class InternalScrollViewSDK9 extends ScrollView {
+    public final class InternalScrollViewSDK9 extends CusScrollView {
 
         public InternalScrollViewSDK9(Context context, AttributeSet attrs) {
             super(context, attrs);
         }
 
-        private ScrollViewListener listener;
-
-        public void setScrollViewListener(ScrollViewListener scrollViewListener) {
-            this.listener = scrollViewListener;
-        }
         @Override
         protected void onScrollChanged(int l, int t, int oldl, int oldt) {
             super.onScrollChanged(l, t, oldl, oldt);
@@ -120,6 +115,19 @@ public class PullToRefreshScrollView extends PullToRefreshBase<ScrollView> {
                 scrollRange = Math.max(0, child.getHeight() - (getHeight() - getPaddingBottom() - getPaddingTop()));
             }
             return scrollRange;
+        }
+    }
+
+    public class CusScrollView extends ScrollView{
+
+        public CusScrollView(Context context, AttributeSet attrs) {
+            super(context, attrs);
+        }
+
+        protected ScrollViewListener listener;
+
+        public void setScrollViewListener(ScrollViewListener scrollViewListener) {
+            this.listener = scrollViewListener;
         }
     }
 }
