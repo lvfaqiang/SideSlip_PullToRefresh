@@ -12,7 +12,7 @@ import java.util.List;
  **/
 public class DataModel {
 
-    public static void initData(List list, String string) {
+    public static void initData(List<String> list, String string) {
         if (list == null) {
             list = new ArrayList();
         }
