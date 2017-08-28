@@ -9,14 +9,13 @@ blog : [Android RecyclerView 的刷新加载，及侧滑菜单](http://blog.csdn
  
 
 
-添加依赖：
+# 添加 Jcnter 依赖：
+    compile 'com.lfq:pulltorefresh:1.0.1'
 
-    compile 'com.lfq:pulltorefresh:1.0.1'
-    
 
-####刷新加载模式： BOTH 下来刷新和上拉加载  ， PULL_FROM_END 上拉加载 ， PULL_FROM_START 下拉刷新 ，DISABLED ，禁止刷新和加载
+#### 刷新加载模式： BOTH 下来刷新和上拉加载  ， PULL_FROM_END 上拉加载 ， PULL_FROM_START 下拉刷新 ，DISABLED ，禁止刷新和加载
 
-##PullToRefreshRecyclerView 用法：
+## PullToRefreshRecyclerView 用法：
 
     pull_recyclerView = (PullToRefreshRecyclerView) findViewById(R.id.pull_recyclerView);
     
@@ -42,7 +41,7 @@ blog : [Android RecyclerView 的刷新加载，及侧滑菜单](http://blog.csdn
     
     使用 默认 Adapter ;
     
-##PullToRefreshSwipeRecyclerView (侧滑菜单 RecyclerView):
+## PullToRefreshSwipeRecyclerView (侧滑菜单 RecyclerView):
 
        pull_swipe_recyclerView = (PullToRefreshSwipeRecyclerView) findViewById(R.id.pull_swipe_recyclerView);
        
@@ -175,7 +174,7 @@ blog : [Android RecyclerView 的刷新加载，及侧滑菜单](http://blog.csdn
                }
            }
 
-##PullToRefreshListView (PullToRefresh框架的基本用法)：
+## PullToRefreshListView (PullToRefresh框架的基本用法)：
 
         pull_listView = (PullToRefreshListView) findViewById(R.id.pull_listView);
 
