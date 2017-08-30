@@ -9,7 +9,7 @@ blog : [Android RecyclerView 的刷新加载，及侧滑菜单](http://blog.csdn
  
 
 
-# 添加 Jcnter 依赖：
+# 添加 Jcenter 依赖：
     compile 'com.lfq:pulltorefresh:1.0.2'
 
 
