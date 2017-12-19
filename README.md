@@ -1,5 +1,6 @@
 # SideSlip_PullToRefresh
 在 PullToRefresh 的基础上整合了 RecyclerView 的刷新加载，以及带有侧滑菜单的 RecyclerView.
+
 [ ![Download](https://api.bintray.com/packages/lvfaqiang/maven/pulltorefresh/images/download.svg) ](https://bintray.com/lvfaqiang/maven/pulltorefresh/_latestVersion)
 
 blog : [Android RecyclerView 的刷新加载，及侧滑菜单](http://blog.csdn.net/lv_fq/article/details/53371871)
@@ -14,7 +15,7 @@ blog : [Android RecyclerView 的刷新加载，及侧滑菜单](http://blog.csdn
 ### Gradle
 
     compile 'com.lfq:pulltorefresh:1.1'
-###Maven
+### Maven
 
     <dependency>
       <groupId>com.lfq</groupId>
